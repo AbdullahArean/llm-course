@@ -1,39 +1,35 @@
 <div align="center">
-  <h1>🗣️ Large Language Model Course</h1>
-  <p align="center">
-    🐦 <a href="https://twitter.com/maximelabonne">Follow me on X</a> • 
-    🤗 <a href="https://huggingface.co/mlabonne">Hugging Face</a> • 
-    💻 <a href="https://mlabonne.github.io/blog">Blog</a> • 
-    📙 <a href="https://github.com/PacktPublishing/Hands-On-Graph-Neural-Networks-Using-Python">Hands-on GNN</a>
-  </p>
+  <h1>🗣️ বড় ভাষা মডেল কোর্স</h1>
+  বাংলায় অনুবাদঃ <a href=https://github.com/abdullaharean)>আবদুল্লাহ ইবনে হানিফ আরিয়ান</a>
 </div>
 <br/>
 
-The LLM course is divided into three parts:
+**বড় ভাষা মডেল (Large Language Model-LLM)**  কোর্সটি তিনটি অংশে বিভক্ত:
 
-1. 🧩 **LLM Fundamentals** covers essential knowledge about mathematics, Python, and neural networks.
-2. 🧑‍🔬 **The LLM Scientist** focuses on building the best possible LLMs using the latest techniques.
-3. 👷 **The LLM Engineer** focuses on creating LLM-based applications and deploying them.
+1.  **বড় ভাষা মডেল মৌলিক** : গণিত, পাইথন এবং নিউরাল নেটওয়ার্ক সম্পর্কিত জ্ঞানকে কভার করে।
+2. ‍ **বড় ভাষা মডেল বিজ্ঞানী** : সর্বশেষ কৌশল ব্যবহার করে সর্বোত্তম বড় ভাষা মডেল গুলো তৈরিতে মনোযোগ দেয়।
+3.  **বড় ভাষা মডেল প্রকৌশলী** : বড় ভাষা মডেল-ভিত্তিক অ্যাপ্লিকেশন তৈরি এবং সেগুলো ডিপ্লো করে মনোযোগ দেয়।
 
-For an interactive version of this course, I created two **LLM assistants** that will answer questions and test your knowledge in a personalized way:
+এই কোর্সের একটি ইন্টারেক্টিভ সংস্করণের জন্য, আমি দুটি **বড় ভাষা মডেল সহকারী** তৈরি করেছি যা প্রশ্নের উত্তর দেবে এবং ব্যক্তিগত উপায়ে আপনার জ্ঞান পরীক্ষা করবে:
 
-* 🤗 [**HuggingChat Assistant**](https://hf.co/chat/assistant/66029d2e5f4a884f7aabc9d1): Free version using Mixtral-8x7B.
-* 🤖 [**ChatGPT Assistant**](https://chat.openai.com/g/g-yviLuLqvI-llm-course): Requires a premium account.
+*  [**HuggingFace সহকারী**](https://hf.co/chat/assistant/66029d2e5f4a884f7aabc9d1): Mixtral-8x7B ব্যবহার করে বিনামূল্যে সংস্করণ।
+*  [**ChatGPT সহকারী**](https://chat.openai.com/g/g-yviLuLqvI-llm-course): প্রিমিয়াম অ্যাকাউন্ট প্রয়োজন।
 
-## 📝 Notebooks
 
-A list of notebooks and articles related to large language models.
+## 📝 নোটবইসমূহ
 
-### Tools
+বড় ভাষা মডেল সম্পর্কিত একটি নোটবই ও প্রবন্ধের তালিকা 
 
-| Notebook | Description | Notebook |
+### টুলস
+
+| টুল       | বিবরণ  | নোটবই  |
 |----------|-------------|----------|
-| 🧐 [LLM AutoEval](https://github.com/mlabonne/llm-autoeval) | Automatically evaluate your LLMs using RunPod | <a href="https://colab.research.google.com/drive/1Igs3WZuXAIv9X0vwqiE90QlEPys8e8Oa?usp=sharing"><img src="img/colab.svg" alt="Open In Colab"></a> |
-| 🥱 LazyMergekit | Easily merge models using MergeKit in one click. | <a href="https://colab.research.google.com/drive/1obulZ1ROXHjYLn6PPZJwRR6GzgQogxxb?usp=sharing"><img src="img/colab.svg" alt="Open In Colab"></a> |
-| 🦎 LazyAxolotl | Fine-tune models in the cloud using Axolotl in one click. | <a href="https://colab.research.google.com/drive/1TsDKNo2riwVmU55gjuBgB1AXVtRRfRHW?usp=sharing"><img src="img/colab.svg" alt="Open In Colab"></a> |
-| ⚡ AutoQuant | Quantize LLMs in GGUF, GPTQ, EXL2, AWQ, and HQQ formats in one click. | <a href="https://colab.research.google.com/drive/1b6nqC7UZVt8bx4MksX7s656GXPM-eWw4?usp=sharing"><img src="img/colab.svg" alt="Open In Colab"></a> |
-| 🌳 Model Family Tree | Visualize the family tree of merged models. | <a href="https://colab.research.google.com/drive/1s2eQlolcI1VGgDhqWIANfkfKvcKrMyNr?usp=sharing"><img src="img/colab.svg" alt="Open In Colab"></a> |
-| 🚀 ZeroSpace | Automatically create a Gradio chat interface using a free ZeroGPU. | <a href="https://colab.research.google.com/drive/1LcVUW5wsJTO2NGmozjji5CkC--646LgC"><img src="img/colab.svg" alt="Open In Colab"></a> |
+|  [LLM AutoEval](https://github.com/mlabonne/llm-autoeval) | RunPod ব্যবহার করে স্বয়ংক্রিয়ভাবে আপনার LLM গুলো মূল্যায়ন করুন | <a href="https://colab.research.google.com/drive/1Igs3WZuXAIv9X0vwqiE90QlEPys8e8Oa?usp=sharing"><img src="img/colab.svg" alt="Colab এ খুলুন"></a> |
+|  🥱 LazyMergekit | মার্জকিট ব্যবহার করে মডেলগুলো এক ক্লিকে সহজে মার্জ করুন। | <a href="https://colab.research.google.com/drive/1obulZ1ROXHjYLn6PPZJwRR6GzgQogxxb?usp=sharing"><img src="img/colab.svg" alt="Colab এ খুলুন"></a> |
+|  🦎 LazyAxolotl  | এক ক্লিকে ক্লাউডে অ্যাক্সোলোটল ব্যবহার করে মডেলগুলো ফাইন-টুন করুন। | <a href="https://colab.research.google.com/drive/1TsDKNo2riwVmU55gjuBgB1AXVtRRfRHW?usp=sharing"><img src="img/colab.svg" alt="Colab এ খুলুন"></a> |
+| ⚡ AutoQuant | এক ক্লিকে GGUF, GPTQ, EXL2, AWQ এবং HQQ ফরম্যাটে LLM গুলো কোয়ান্টাইজ করুন। | <a href="https://colab.research.google.com/drive/1b6nqC7UZVt8bx4MksX7s656GXPM-eWw4?usp=sharing"><img src="img/colab.svg" alt="Colab এ খুলুন"></a> |
+| 🌳 Model Family Tree| মার্জ করা মডেলগুলির ফ্যামিলি ট্রি দৃশ্যমান করুন। | <a href="https://colab.research.google.com/drive/1s2eQlolcI1VGgDhqWIANfkfKvcKrMyNr?usp=sharing"><img src="img/colab.svg" alt="Colab এ খুলুন"></a> |
+| 🚀 ZeroSpace | একটি বিনামূল্যে ZeroGPU ব্যবহার করে স্বয়ংক্রিয়ভাবে একটি Gradio চ্যাট ইন্টারফেস তৈরি করুন। | <a href="https://colab.research.google.com/drive/1LcVUW5wsJTO2NGmozjji5CkC--646LgC"><img src="img/colab.svg" alt="Colab এ খুলুন"></a> |
 
 ### Fine-tuning
 
